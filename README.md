@@ -6,6 +6,9 @@ nfp
 * 192.168.32.100 to 192.168.32.149 = Database/private machines
 
 
+Details
+-------
+
  Address        | Description
 ----------------|-------------------------
 192.168.32.2x   | Active Directory machines
