@@ -11,7 +11,7 @@ Details
 
  Address        | Description
 ----------------|-------------------------
-192.168.32.2x   | Active Directory machines
+192.168.32.2x   | Active Directory / DNS machines
 192.168.32.3x   | FTP / Storage
 192.168.32.4x   | Nginx loadbalancers
 192.168.32.5x   | www
